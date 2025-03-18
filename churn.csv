@@ -1,4 +1,4 @@
-id_cliente,score_credito,pais,sexo_biologico,edad,anos_de_cliente,saldo,servicios_adquiridos,tiene_tarjeta_credito,miembro_activo,salario_estimado,churn
+id_cliente,score_credito,pais,sexo_biologico,edad,años_de_cliente,saldo,servicios_adquiridos,tiene_tarjeta_credito,miembro_activo,salario_estimado,churn
 15634602,619,Francia,Mujer,42,2,0.0,1,1,1,101348.88,1
 15647311,608,España,Mujer,41,1,83807.86,1,0,1,112542.58,0
 15619304,502,Francia,Mujer,42,8,159660.8,3,1,0,113931.57,1
